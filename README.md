@@ -19,12 +19,12 @@ A simple and minimalist To-Do App built using React. This application allows use
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   https://github.com/vineet1401/To-Do-App-React.git
 
 2. **Install Dependencies:**
 
    ```bash
-   cd react-todo-app
+   cd To-Do-App-React
    npm install
 
 3. **Run the App:**
